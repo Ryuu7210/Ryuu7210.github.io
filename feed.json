@@ -5,14 +5,5 @@
     "icon": "http://example.com/assets/favicon.ico",
     "description": "没描述",
     "home_page_url": "http://example.com",
-    "items": [
-        {
-            "id": "http://example.com/2024/03/10/%E7%BD%91%E7%BB%9C%E4%B8%AD%E6%95%B0%E6%8D%AE%E6%98%AF%E5%A6%82%E4%BD%95%E4%BC%A0%E8%BE%93%E7%9A%84/",
-            "url": "http://example.com/2024/03/10/%E7%BD%91%E7%BB%9C%E4%B8%AD%E6%95%B0%E6%8D%AE%E6%98%AF%E5%A6%82%E4%BD%95%E4%BC%A0%E8%BE%93%E7%9A%84/",
-            "title": "网络中数据是如何传输的",
-            "date_published": "2024-03-10T06:18:49.000Z",
-            "content_html": "",
-            "tags": []
-        }
-    ]
+    "items": []
 }
